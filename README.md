@@ -48,17 +48,7 @@ Simulación con coste de contacto de 3 €/cliente y beneficio de 11 €/aceptac
 
 **Conclusión:** DBSCAN identifica microsegmentos muy selectivos donde la tasa de conversión supera el 40 % (y en algunos grupos el 80 %), mientras que K-means sólo consigue reducir pérdidas sin alcanzar rentabilidad.
 
-## 📁 Estructura del repositorio
 
-```
-.
-├── data/                  # Dataset (no incluido; ver instrucciones abajo)
-├── notebooks/             # Notebooks de análisis
-├── src/                   # Código fuente
-├── figures/               # Gráficas generadas
-├── report/                # Informe LaTeX
-│   └── main.tex
-└── README.md
 ```
 
 > Ajusta esta estructura a la real de tu repositorio.
